@@ -6,3 +6,4 @@ moeten we aparte repositories aanmaken voor verschillende talen (Python, PHP, Ja
 testomgeving devthis2
 
 rimmert: Commentaar proberen
+rene: commentaar toegevoegd (er is een fork aan gemaakt, omdat ik geen rechten had om de readme te editten)
